@@ -7,5 +7,5 @@ jobs :
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Runs Feed Generator 
-        uses: Michealweb/podcast-generator@main
+        uses: Pavanteja-26/podcast-generator@main
 
